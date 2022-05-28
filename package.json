@@ -4,7 +4,7 @@
   "description": "<p align=\"center\">     <a href=\"http://kitty-items-flow-testnet.herokuapp.com/\">         <img width=\"400\" src=\"kitty-items-banner.png\" />     </a> </p>",
   "main": "index.js",
   "dependencies": {
-    "lerna": "^4.0.0",
+    "lerna": "^5.0.0",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
