@@ -4,8 +4,8 @@
   "description": "<p align=\"center\">     <a href=\"http://kitty-items-flow-testnet.herokuapp.com/\">         <img width=\"400\" src=\"kitty-items-banner.png\" />     </a> </p>",
   "main": "index.js",
   "dependencies": {
-    "lerna": "^4.0.0",
-    "yargs": "^16.2.0"
+    "lerna": "^5.6.2",
+    "yargs": "^17.6.0"
   },
   "devDependencies": {
     "@testing-library/cypress": "^7.0.7",
